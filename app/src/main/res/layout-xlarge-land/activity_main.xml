@@ -145,9 +145,9 @@
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintDimensionRatio="16:9"
-        app:layout_constraintStart_toEndOf="@+id/imageView23"
+        app:layout_constraintStart_toStartOf="@+id/guideline3"
         app:layout_constraintTop_toBottomOf="@+id/imageView22"
-        app:layout_constraintVertical_bias="0.48000002"
+        app:layout_constraintVertical_bias="0.614"
         app:srcCompat="@drawable/videosimage" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
